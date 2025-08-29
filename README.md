@@ -1,5 +1,5 @@
-# MRSD Project I
-Subject Name: MRSD Project 2  
+# MRSD Project II
+Subject Name: MRSD Project II  
 Subject Code: 16682-A  
 Semester Taken: Fall 2025  
 Instructor: John M. Dolan  
